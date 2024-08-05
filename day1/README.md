@@ -22,3 +22,18 @@
 
 <img src="llm1.png">
 
+### foundation models 
+
+-  Pre-trained LLM 
+
+<img src="pre1.png">
+
+## foundation models example 
+
+<img src="fm1.png">
+
+### domain specific foundataion model
+
+<img src="dm1.png">
+
+
