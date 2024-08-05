@@ -37,3 +37,28 @@
 <img src="dm1.png">
 
 
+## Fine tuning of GPT foundation model 
+
+<img src="fm111.png">
+
+
+## use docs for fine tuning 
+
+[click_here](https://platform.openai.com/docs/guides/fine-tuning)
+
+
+### GPT models to fine tune 
+
+<img src="tune11.png">
+
+### google colab 
+
+<img src="colab1.png">
+
+### colab -- lab testing 
+
+<img src="lab1.png">
+
+
+
+
