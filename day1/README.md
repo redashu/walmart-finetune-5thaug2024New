@@ -10,3 +10,15 @@
 
 <img src="ml3.png">
 
+### ANN understanding 
+
+<img src="ann1.png">
+
+### DL models type 
+
+<img src="dn1.png">
+
+## Intro to LLM 
+
+<img src="llm1.png">
+
