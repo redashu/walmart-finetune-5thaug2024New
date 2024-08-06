@@ -20,3 +20,11 @@
 
 [click_to_check](https://huggingface.co/datasets/cognitivecomputations/samantha-data)
 
+
+## data jsonl we have to upload to foundation model instance 
+
+<img src="api1.png">
+
+### token based costing in GPT model version 
+
+<img src="gpt2.png">
